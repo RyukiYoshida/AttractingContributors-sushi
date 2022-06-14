@@ -4,6 +4,7 @@
 
 # Write down your name and favorite sushi !
 Shota Ozaki, 穴子 アナゴ Conger eel
+Ippei Otake, かにかま　にぎり　kanikama nigiri
 
 # My favorite sushi
 鮭　サーモン Chum</br>
