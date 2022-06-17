@@ -12,6 +12,7 @@ conflict対策として、リストの間に入れていただけると幸いで
 玉子　たまご Egg</br>
 鮪　マグロ　Tuna</br>
 鮭　サーモン　salmon
+海老天　エビテン　ebiten
 
 # My favorite sushi（Example) 
 1. 鮭　サーモン Chum
