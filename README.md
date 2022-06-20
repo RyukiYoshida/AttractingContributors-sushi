@@ -14,11 +14,8 @@ conflict対策として、リストの間に入れていただけると幸いで
 鮪　マグロ　Tuna</br>
 鮭　サーモン　salmon</br>
 ハンバーグ</br>
-
-# My favorite sushi（Example) 
-1. 鮭　サーモン Chum
-2. マグロ
-3. うに
-4. たこ
-5. ikura
-6. うなぎ
+マグロ
+うに
+たこ
+ikura
+うなぎ
